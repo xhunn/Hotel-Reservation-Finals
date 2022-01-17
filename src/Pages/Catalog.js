@@ -1,6 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap";
 import Products from "../Components/Products/Products";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Cart from "../Components/Products/Cart";
 
 const Catalog = () => {
